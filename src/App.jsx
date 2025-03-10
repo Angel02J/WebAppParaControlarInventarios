@@ -17,7 +17,6 @@ function App() {
         <ThemeProvider theme={ themeStyle }>
           <AuthContextProvider>
             <Container>
-              {/* Me quede en el minuto 1:11:49. Link del video: https://www.youtube.com/watch?v=jLMIMgwgLLw */}        
               <MyRoutes/>
             </Container>
           </AuthContextProvider>
